@@ -11,9 +11,11 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1yBIPbVwtFlHbZ88LU7JWH9jtOh7aWrl8/edit](https://docs.google.com/document/d/1yBIPbVwtFlHbZ88LU7JWH9jtOh7aWrl8/edit)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **vincentwong321@gmail.com**</h3>
 <p align="left">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongkahim)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
