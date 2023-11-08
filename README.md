@@ -25,9 +25,7 @@ Connect with me: **vincentwong321@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongkahim)](https://github.com/anuraghazra/github-readme-stats"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongkahim)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
