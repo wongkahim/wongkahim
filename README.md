@@ -5,6 +5,9 @@
 <h3 align="center">🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱</h3>
 
 🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱
+
+📄 Know about my experiences [https://docs.google.com/document/d/1yBIPbVwtFlHbZ88LU7JWH9jtOh7aWrl8/edit](https://docs.google.com/document/d/1yBIPbVwtFlHbZ88LU7JWH9jtOh7aWrl8/edit)
+
 <p align="center">
     <img src="https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581"/>
 </p>
@@ -19,7 +22,7 @@
 
 📚 Let's connect and share our knowledge! Feel free to reach out for collaborations, mentorship opportunities, or to discuss all things Flutter. Together, let's create amazing mobile experiences!"
 
-Connect with me: **vincentwong321@gmail.com**
+🔊 Connect with me: **vincentwong321@gmail.com**
 <p align="left">
 </p>
 
