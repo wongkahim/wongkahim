@@ -5,8 +5,10 @@
 <h3 align="center">🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱</h3>
 
 
-![app-tranetech](https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581){ width="800" height="600" style="display: block; margin: 0 auto" }
-
+![app-tranetech](https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581)
+<p align="center">
+    <img src="https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581"/>
+</p>
 🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱
 
 🎓 Recent graduate from Hong Kong Polytechnic University, equipped with a solid foundation in computer science and a specialization in mobile app development.
