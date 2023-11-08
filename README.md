@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Vincent Wong</h1>
 <h3 align="center">🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱</h3>
 
-![app-tranetech](https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581)
+<p align="center">
+  ![app-tranetech](https://github.com/wongkahim/wongkahim/assets/91853380/babf00f7-5dbb-4734-ba0e-173ec1f45581)
+</p>
 
 🚀 Passionate about Flutter mobile app development and creating delightful user experiences! 📱
 
@@ -18,7 +20,7 @@
 
 📚 Let's connect and share our knowledge! Feel free to reach out for collaborations, mentorship opportunities, or to discuss all things Flutter. Together, let's create amazing mobile experiences!"
 
-<h3 align="left">Connect with me: **vincentwong321@gmail.com**</h3>
+Connect with me: **vincentwong321@gmail.com**
 <p align="left">
 </p>
 
